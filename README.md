@@ -110,10 +110,10 @@ Number of Tasks	Estimated Memory
 1,000	~68 KB
 10,000	~680 KB
 
-#### 🏗️ Project Structure
+### 🏗️ Project Structure
 index.js
 
-#### 🎯 Educational Goals
+### 🎯 Educational Goals
 
 This project demonstrates:
 
@@ -127,7 +127,7 @@ Practical memory estimation
 
 Clean CLI design
 
-#### 🧠 Key Concepts Used
+### 🧠 Key Concepts Used
 
 Greedy algorithms
 
